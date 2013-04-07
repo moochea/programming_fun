@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#This script finds the largest prime number of a numerical argument
+
 import sys
 
 numx = int(sys.argv[1] )

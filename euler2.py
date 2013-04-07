@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# This script finds the total of all the even numbers in the fibonacci sequence up to and less than max_num
 values = []
 total = 0
 

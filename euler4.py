@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#This script finds the largest 6 digit palindrom which is a multiple of two 3 digit factors
+
 # palindrom x*x = number where number is the same read back and forth
 # abccba
 
