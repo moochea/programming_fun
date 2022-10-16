@@ -1,4 +1,8 @@
 env/*
 intro_to_data_sci/.idea/*
 webbit/.idea/*
+.vscode
+lastbranch
+basic_rest/env/*
+basic_rest/.idea/*
 
